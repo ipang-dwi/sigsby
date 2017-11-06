@@ -7,6 +7,7 @@ Aplikasi Sistem Informasi Geografis (SIG) / GIS Wisata Kota Surabaya Berbasis We
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
 - Web programming, terutama native PHP5, PHP Framework (CodeIgniter), Jquery dan CSS3
 - Cara kerja REST API, dalam hal ini GMap (Google Map) API v3
+- SIG - Sistem Informasi Geografis / GIS - Geographical Informasion System
 
 Instalasi :
 - Cukup download atau clone file-file di repo ini, dan copy kan pada web direktori kamu.
