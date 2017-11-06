@@ -14,10 +14,19 @@ Instalasi :
   Silahkan WA ke o856 48587 856, untuk file Sql nya. Nanti akan diemail. 
 - Buka file 'configdb.php' pada baris ke 6, sesuaikan dengan setting database kamu.
   contoh $mysqli = new mysqli('localhost','user-kamu','password-kamu','nama-database-kamu');
+- Buka file 'database.php' pada folder admin/application/config. Sesuaikan dengan setting database kamu.
+  contoh 
+  $db['default']['hostname'] = 'localhost';
+  $db['default']['username'] = 'user-kamu';
+  $db['default']['password'] = 'password-kamu';
+  $db['default']['database'] = 'nama-database-kamu';
+  $db['default']['dbdriver'] = 'mysqli';
+- Buka file 'config.php' pada folder admin/application/config. Sesuaikan dengan setting nama folder admin project kamu.
+  contoh $config['base_url']	= 'http://localhost/project-kamu/admin';
 - Tes jalankan pada browser.
 
 Preview :
-http://imgur.com/a/tN9RN
+https://imgur.com/a/4X1HS
 
 Minimum requirements :
 - PHP 5.x
