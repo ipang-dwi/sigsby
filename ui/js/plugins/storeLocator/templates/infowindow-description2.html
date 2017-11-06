@@ -1,0 +1,13 @@
+{{#location}}
+<table width="350">
+<tr><td class="loc-name">{{event}}</td></tr>
+<tr><td><a class="fancybox" href="admin/assets/pics/{{pic}}" data-fancybox-group="gallery" title="{{event}}"><img src="admin/assets/pics/{{pic}}" width="75" height="75" alt="" /></a></td></tr>
+<tr><td>Alamat</td></tr>
+<tr><td>{{alamat}}</td></tr>
+<tr><td>{{keterangan}}</td></tr>
+<tr><td>
+<button class="various" data-fancybox-type="iframe" href="fasilitas.php?id={{id_event}}&opsi=event">Fasilitas</button>
+<button href="#" onClick="window.open('https://maps.google.com/maps?saddr={{origin}}&amp;daddr={{alamat}}', '_blank')">Get Direction</button></td></tr>
+</table>
+<div><a href="{{web}}" target="_blank">{{niceURL web}}</a></div>
+{{/location}}

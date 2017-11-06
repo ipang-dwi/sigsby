@@ -1,0 +1,15 @@
+{{#location}}
+<li data-markerid="{{markerid}}">
+	<div class="list-label">{{marker}}</div>
+	<div class="list-details">
+		<div class="list-content">
+			<div class="loc-name">{{wisata}}</div>
+			<div class="loc-addr">{{alamat}}</div> 
+			<div class="loc-addr2">{{telp}}</div>
+			<div class="loc-web"><a href="{{web}}" target="_blank">{{niceURL web}}</a></div>
+			{{#if distance}}<div class="loc-dist">{{distance}} {{length}}</div>
+			<div class="loc-directions"><a href="https://maps.google.com/maps?saddr={{origin}}&amp;daddr={{alamat}}" target="_blank">Directions</a></div>{{/if}}
+		</div>
+	</div>
+</li>
+{{/location}}
