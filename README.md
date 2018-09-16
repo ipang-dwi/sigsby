@@ -1,5 +1,7 @@
 # web-based-sig-wisata-kota-surabaya
 
+> Maaf repo ini sudah tidak bisa berjalan dikarenakan ada update GMap API setelah masuk platform GCP - Google Cloud Platform awal tahun 2018. Dan repo ini tidak akan saya update. Silahkan akses https://lab.firstplato.com/gisjogja untuk mencoba project serupa dengan GMap API terbaru, dan beberapa fitur tambahan, yang akan saya upload juga di github.
+
 Sistem Informasi Geografis (SIG) / GIS Wisata Kota Surabaya Berbasis Web
 
 Aplikasi Sistem Informasi Geografis (SIG) / GIS Wisata Kota Surabaya Berbasis Web. Untuk frontend menggunakan Native PHP5 dan untuk backend menggunakan framework CodeIgniter.
