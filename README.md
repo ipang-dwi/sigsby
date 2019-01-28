@@ -1,5 +1,7 @@
 # web-based-sig-wisata-kota-surabaya
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 > Maaf repo ini sudah tidak bisa berjalan dikarenakan ada update GMap API setelah masuk platform GCP - Google Cloud Platform awal tahun 2018. Dan repo ini tidak akan saya update. Silahkan akses https://lab.firstplato.com/gisjogja untuk mencoba project serupa dengan GMap API terbaru, dan beberapa fitur tambahan, silahkan akses repo https://github.com/ipang-dwi/gisjogja-1. Bisa juga lihat video previewnya di https://www.youtube.com/watch?v=4a1MOR6FRpk
 
 Sistem Informasi Geografis (SIG) / GIS Wisata Kota Surabaya Berbasis Web
