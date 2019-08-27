@@ -1,6 +1,7 @@
 # web-based-sig-wisata-kota-surabaya
 
-<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
+
 
 > Update 18.03.2019, repo ini akan saya maintenance dan update berkala lagi. Saat ini masih dalam proses maintenance ulang, dan belu release.
 </br>======================================================================</br>
