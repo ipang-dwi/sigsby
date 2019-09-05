@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 
-> Update 18.03.2019, repo ini akan saya maintenance dan update berkala lagi. Saat ini masih dalam proses maintenance ulang, dan belu release.
+> Update 18.03.2019, repo ini akan saya maintenance dan update berkala lagi. Saat ini masih dalam proses maintenance ulang, dan belum selesai untuk release.
 </br>======================================================================</br>
 Maaf repo ini sudah tidak bisa berjalan dikarenakan ada update GMap API setelah masuk platform GCP - Google Cloud Platform awal tahun 2018. Dan repo ini tidak akan saya update. Silahkan akses https://lab.firstplato.com/gisjogja untuk mencoba project serupa dengan GMap API terbaru, dan beberapa fitur tambahan, silahkan akses repo https://github.com/ipang-dwi/gisjogja-1. Bisa juga lihat video previewnya di https://www.youtube.com/watch?v=4a1MOR6FRpk
 
