@@ -49,3 +49,4 @@ Elements :
 
 Feel free to reach me on : 
 www.firstplato.com
+admin@firstplato.com
