@@ -387,7 +387,7 @@
 						'dataType': 'json',
 						'dataLocation': 'data/data-event.json',
 						'inlineDirections' : true,
-						autoGeocode: true
+						autoGeocode: true,
 					});
         });
       </script>
